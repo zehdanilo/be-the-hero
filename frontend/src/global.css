@@ -51,9 +51,9 @@ form textarea {
     color: #fff;
     font-weight: 700;
     margin-top: 16px;
-    font-display: inline-block;
+    display: inline-block;
     text-align: center;
-    text-decoration: center;
+    text-decoration: none;
     font-size: 18px;
     line-height: 60px;
     transition: filter 0.2s;
